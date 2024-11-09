@@ -18,3 +18,10 @@ sudo apt-get install -y docker-ce
 # Enable Docker to start on boot
 sudo systemctl enable docker
 sudo systemctl start docker
+
+# Install Git if not already installed
+sudo apt-get update -y
+sudo apt-get install -y git
+
+# Clone the repository
+git clone https://github.com/romesh97/simple-nodejs.git /home/romanet/app
