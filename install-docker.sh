@@ -24,4 +24,4 @@ sudo apt-get update -y
 sudo apt-get install -y git
 
 # Clone the repository
-git clone https://github.com/romesh97/simple-nodejs.git /home/romanet/app
+git clone https://github.com/romesh97/simple-nodejs.git /home/smarlk/app
