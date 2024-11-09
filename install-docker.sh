@@ -3,8 +3,6 @@
 # Update the package index
 sudo apt-get update -y
 
-
-
 # Update the package database
 sudo apt-get update
 
